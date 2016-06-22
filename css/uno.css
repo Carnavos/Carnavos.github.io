@@ -693,7 +693,8 @@ body {
 	content: "\f1cf"; }
 
 .icon-social-linkedin:before {
-	content: "\f1d0"; }
+	content: "../images/replacementIcons/linkedin.svg"; }
+	/*content: "\f1d0"; }*/
 
 .icon-social-medium:before {
 	content: "\f1d1"; }

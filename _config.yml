@@ -10,10 +10,11 @@ baseurl: ''
 author:
   name: 'Theo Carnavos'
   email: tcarnavos@gmail.com
-  twitter_username: Carnavos
+  # twitter_username: TCarnavos
   # facebook_username: theo.carnavos
   github_username:  Carnavos
   linkedin_username:  theocarnavos
+  soundcloud_username: theo-carnavos
 
 defaults:
   -
